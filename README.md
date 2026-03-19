@@ -28,4 +28,4 @@ M.Tech Geoinformatics @ IIT Kanpur | B.Tech in CSE
 
 ---
 
-![Rupak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RupakGanvir&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- ![Rupak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RupakGanvir&show_icons=true&theme=tokyonight&hide_border=true) -->
