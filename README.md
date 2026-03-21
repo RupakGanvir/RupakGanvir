@@ -26,6 +26,6 @@ M.Tech Geoinformatics @ IIT Kanpur | B.Tech in CSE
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rupak--ganvir-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rupak-ganvir-8a46a7213)
 [![Twitter](https://img.shields.io/badge/Twitter-@GanvirRupak-1DA1F2?style=flat&logo=twitter)](https://twitter.com/GanvirRupak)
 
----
+
 
 <!-- ![Rupak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RupakGanvir&show_icons=true&theme=tokyonight&hide_border=true) -->
