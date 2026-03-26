@@ -1,7 +1,7 @@
 # Hi, I'm Rupak 👋
 
 **Software Engineer · ML · GeoAI · Computer Vision**  
-M.Tech @ IIT Kanpur | B.Tech in CSE
+M.Tech Geoinformatics @ IIT Kanpur | B.Tech in CSE
 
 ---
 
