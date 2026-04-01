@@ -6,9 +6,9 @@ M.Tech Geoinformatics @ IIT Kanpur | B.Tech in CSE
 ---
 
 ## 🔭 Currently Working On
-- 📊 **ML Project** — CS229 companion project
-- 🌐 **Portfolio site** — rupakganvir.github.io
-- 🧠 **DSA prep** — Striver's SDE Sheet in C++
+- 📊 **ML Project** — CS229 companion project  
+- 🧠 **DSA prep** — Striver's SDE Sheet in C++  
+- 📚 **Strengthening core CS** — OS, DBMS, CN
 
 ## 🌱 Currently Learning
 - Stanford CS229 (Machine Learning)
