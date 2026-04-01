@@ -15,11 +15,12 @@ M.Tech Geoinformatics @ IIT Kanpur | B.Tech in CSE
 - Advanced DSA & Competitive Programming
 
 ## 🛠️ Tech Stack
-**Languages:** C++, Python, JavaScript, Solidity  
-**ML/AI:** TensorFlow, NumPy  
-**Web:** React, Node.js, Tailwind CSS, Framer Motion, Vite  
-**Geospatial:** QGIS, GEE, GNSS  
-**Blockchain:** Solidity, Web3.js  
+**Languages:** C++, Python  
+**Core CS:** DSA, OS, DBMS, CN  
+**ML:** NumPy, Pandas, Scikit-learn, TensorFlow  
+**Dev:** Node.js, React  
+**Tools:** Git, Linux  
+**Geospatial:** QGIS, GEE, GNSS
 
 ## 📫 Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-rupakganvir.github.io-blue?style=flat&logo=github)](https://rupakganvir.github.io)
