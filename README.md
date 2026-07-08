@@ -16,7 +16,7 @@ Went from **0.784 → 0.904 AUC-ROC**. Deployed a FastAPI scoring service with F
 Ball-by-ball probabilistic simulation for T20 outcomes. Team strength modeling, tournament analysis.  
 `Python` `Probability` `Statistics`
 
-**[Fake Medicine Detection](#)** — B.Tech Capstone  
+**[Fake Medicine Detection](https://ijariie.com/manuscript/20638)** — B.Tech Capstone  
 Ethereum-based drug verification system. Smart contracts + QR scanning for tamper-proof pharma supply chain.  
 Recognized by faculty as production-grade. Also published in IJARIIE (2023).  
 `Solidity` `React` `Web3.js` `Android` `MySQL`
