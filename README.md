@@ -61,6 +61,6 @@ Built responsive UI for 2 e-commerce clients in a 4-member agile team.
 
 ## A Few Other Things
 
-- CodeChef ⭐⭐⭐ · 425+ LeetCode problems (C++, medium/hard focus)
+- CodeChef ⭐⭐⭐ · 475+ LeetCode problems (C++, medium/hard focus)
 - Two published papers — blockchain-based pharma fraud detection (IJARIIE & IJRPR, 2023)
 - B.Tech Computer Science and Engineering (2019–2023)
