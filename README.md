@@ -1,6 +1,6 @@
 # Rupak Ganvir
 
-SWE + ML · IIT Kanpur (M.Tech Geoinformatics) · Ex-SWE · B.Tech CSE  
+SWE + ML · IIT Kanpur (M.Tech) · Ex-SWE · B.Tech CSE  
 Open to **Software Engineering**, **ML Engineering**, and **Data Science** roles.
 
 ---
