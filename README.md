@@ -39,8 +39,8 @@ Ball-by-ball probabilistic simulation for T20 outcomes. Team strength modeling, 
 ## Stack
 
 ```
-Languages   Python · C++ · JavaScript · SQL
-ML          NumPy · Pandas · Scikit-learn · XGBoost
+Languages   Python · C/C++ · Go · JavaScript · SQL
+ML          NumPy · Pandas · Matplotlib · Scikit-learn · XGBoost
 Dev         React · Node.js · FastAPI · REST APIs · Docker
 Geo         QGIS · Google Earth Engine · GNSS
 ```
@@ -61,6 +61,6 @@ Built responsive UI for 2 e-commerce clients in a 4-member agile team.
 
 ## A Few Other Things
 
-- CodeChef ⭐⭐⭐ · 475+ LeetCode problems (C++, medium/hard focus)
+- CodeChef ⭐⭐⭐⭐ · 500+ LeetCode problems (C++, medium/hard focus)
 - Two published papers — blockchain-based pharma fraud detection (IJARIIE & IJRPR, 2023)
 - B.Tech Computer Science and Engineering (2019–2023)
