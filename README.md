@@ -7,7 +7,7 @@ Open to **Software Engineering**, **ML Engineering**, and **Data Science** roles
 
 ## Projects
 
-**[DocuMind](https://github.com/RupakGanvir/DocuMind)** — production-grade RAG service  
+**[DocuMind](https://github.com/RupakGanvir/DocuMind)** — end-to-end RAG system  
 Two-stage retrieval: dense search (ChromaDB) fused with BM25 via Reciprocal Rank Fusion, then a cross-encoder reranker on top. Eval harness scores retrieval and generation separately — faithfulness, context precision/recall, answer relevancy, ROUGE-L.  
 82 tests, Dockerized, CI via GitHub Actions.  
 `Python` `FastAPI` `ChromaDB` `Docker` `GitHub Actions`
